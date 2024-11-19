@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\nuc\Documents\iz kljuca\HW\Projects\ShockBikeLight_V5\Project Outputs for ShockBikeLight_V5\Pick Place for shocksolar_V5_1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/09/24
+Time:       20:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment      Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description                                  
+D8         C2843878     TopLayer C2843878  118.110       171.260       90       "LED, POWER,SMD, 1WATT"                      
+D7         C2843878     TopLayer C2843878  1062.992      171.260       90       "LED, POWER,SMD, 1WATT"                      
+D6         C2843878     TopLayer C2843878  320.866       122.047       180      "LED, POWER,SMD, 1WATT"                      
+D5         C2843878     TopLayer C2843878  860.236       112.047       360      "LED, POWER,SMD, 1WATT"                      
+D4         1N4148       TopLayer D_SOD523  982.870       436.782       270      "DIODE, FAST SWTICHING, 0.2A"                
+D3         1N4148       TopLayer D_SOD523  453.877       596.457       180      "DIODE, FAST SWTICHING, 0.2A"                
+D1         1N4148       TopLayer D_SOD523  509.196       281.329       270      "DIODE, FAST SWTICHING, 0.2A"                
+D2         1N4148       TopLayer D_SOD523  518.537       368.460       180      "DIODE, FAST SWTICHING, 0.2A"                
+C2         10uF         TopLayer C0603     633.858       374.068       180      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
+C1         100nF        TopLayer C0603     583.491       460.630       180      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
+R15        100R         TopLayer R0603     995.581       334.346       180      "RESISTOR, SMD"                              
+Q6         S8550        TopLayer SOT23_3   719.656       255.905       270      "BJT, PNP, 25v, 0.5A, SMD, SOT23"            
+R16        10R          TopLayer R0603     216.535       241.969       270      "RESISTOR, SMD"                              
+R13        1.5M         TopLayer R0603     732.388       436.739       270      "RESISTOR, SMD"                              
+C12        10uF         TopLayer C0603     206.011       334.984       360      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
+C11        10uF         TopLayer C0603     214.792       407.564       360      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
+C10        10uF         TopLayer C0603     216.535       472.692       360      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
+R10        10k          TopLayer R0603     489.759       503.031       270      "RESISTOR, SMD"                              
+U3         TP4057       TopLayer SOT23_6   370.079       465.630       360      "Li-ion charger IC"                          
+F2         MF-NSMF110-2 TopLayer F1206     594.488       233.519       270      "Fuse, 160mA, 63VDC, 1206, SMD, Fast Acting" 
+R9         150M         TopLayer R0603     444.882       263.779       90       "RESISTOR, SMD"                              
+R12        1.5M         TopLayer R0603     890.203       459.420       360      "RESISTOR, SMD"                              
+R11        150K         TopLayer R0603     797.516       436.739       270      "RESISTOR, SMD"                              
+R14        10R          TopLayer R0603     964.567       232.284       270      "RESISTOR, SMD"                              
+Q2         S8550        TopLayer SOT23_3   863.524       259.843       270      "BJT, PNP, 25v, 0.5A, SMD, SOT23"            
+Q5         SS8050       TopLayer SOT23_3   929.134       563.918       180      "BJT, NPN, 25v, 1.5A, SMD, SOT23"            
+Q4         SS8050       TopLayer SOT23_3   641.398       568.796       360      "BJT, NPN, 25v, 1.5A, SMD, SOT23"            
+Q3         C8492        TopLayer SOT23_3   338.065       290.027       90       "MOSFET P-CH  
+C8492"                       
+C9         100nF        TopLayer C0603     785.269       596.457       360      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
+c7         10uF         TopLayer C0603     216.535       537.820       360      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
+C8         1uF          TopLayer C0603     785.269       529.429       360      "CAP, MLCC, -F, -V, MATERIAL, -%, 0201"      
